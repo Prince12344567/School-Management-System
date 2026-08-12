@@ -1,0 +1,5 @@
+node_modules/
+db/register.db
+db/register.db-shm
+db/register.db-wal
+.env
